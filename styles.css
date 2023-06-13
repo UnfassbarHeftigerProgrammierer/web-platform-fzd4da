@@ -1,0 +1,19 @@
+table{
+  background-color: white; 
+  display: inline-block; 
+  overflow-y: scroll; 
+  height: 150px;
+  border-collapse: collapse;
+}
+
+body{
+ background-color: gray;
+}
+
+tr { border: none; }
+td {
+border-right: solid 2px black; 
+border-left: solid 2px black;
+}
+
+div{width: fit-content; height: fit-content;}
